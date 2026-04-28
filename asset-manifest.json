@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/repositorisLIVE/static/css/main.dc5d7d94.css",
+    "main.js": "/repositorisLIVE/static/js/main.664b65bd.js",
+    "static/js/453.02cac512.chunk.js": "/repositorisLIVE/static/js/453.02cac512.chunk.js",
+    "index.html": "/repositorisLIVE/index.html",
+    "main.dc5d7d94.css.map": "/repositorisLIVE/static/css/main.dc5d7d94.css.map",
+    "main.664b65bd.js.map": "/repositorisLIVE/static/js/main.664b65bd.js.map",
+    "453.02cac512.chunk.js.map": "/repositorisLIVE/static/js/453.02cac512.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc5d7d94.css",
+    "static/js/main.664b65bd.js"
+  ]
+}
